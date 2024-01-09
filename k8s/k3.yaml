@@ -1,0 +1,4 @@
+kind: Simple
+apiVersion: k3d.io/v1alpha3
+
+agents: 4
